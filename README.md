@@ -21,3 +21,7 @@ https://raw.githubusercontent.com/KaitoHH/24-jieqi-ics/master/23_solar_terms_201
 本日历由原 [lunar-calendar](https://github.com/infinet/lunar-calendar) 项目修改而成，在此对原作者表示感谢。
 
 如有任何问题，可以提交issues联系。
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/KaitoHH/24-jieqi-ics.svg)](https://starchart.cc/KaitoHH/24-jieqi-ics)
